@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "loyalty-sandbox-4",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
